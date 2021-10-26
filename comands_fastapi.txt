@@ -1,1 +1,8 @@
 uvicorn main:app --reload 
+
+
+## comands sql
+https://www.youtube.com/watch?v=fGOsgMcTP2I
+CREATE ROLE "postgres" WITH LOGIN PASSWORD 'postgres';
+CREATE ROLE "courses" WITH LOGIN SUPERUSER PASSWORD 'courses';
+
