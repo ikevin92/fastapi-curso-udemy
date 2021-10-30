@@ -1,5 +1,7 @@
 uvicorn main:app --reload 
 
+pip install -r ./requirements.txt
+
 
 ## comands sql
 https://www.youtube.com/watch?v=fGOsgMcTP2I
